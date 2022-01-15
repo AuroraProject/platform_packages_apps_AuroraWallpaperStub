@@ -1,4 +1,25 @@
 {
+    "Aurora Wallpapers": {
+        "author": "AuroraProject",
+        "featured": "linux_aurora_ubuntu_18_04",
+        "wallpapers": {
+            "CentOS": {
+                "1": ""
+            },
+            "Fedora 29": {
+                "1": ""
+            },
+            "MX Linux": {
+                "1": ""
+            },
+            "Ubuntu 18.04": {
+                "1": ""
+            },
+            "Ubuntu 21.10": {
+                "1": ""
+            }
+        }
+    },
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",

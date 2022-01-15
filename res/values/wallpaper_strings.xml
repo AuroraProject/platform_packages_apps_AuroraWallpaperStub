@@ -15,6 +15,13 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_aw">Aurora Wallpapers</string>
+    <string name="author_aw">by AuroraProject</string>
+    <string name="wallpaper_linux_aurora_cent_os">CentOS</string>
+    <string name="wallpaper_linux_aurora_fedora_29">Fedora 29</string>
+    <string name="wallpaper_linux_aurora_mx_linux">MX Linux</string>
+    <string name="wallpaper_linux_aurora_ubuntu_18_04">Ubuntu 18.04</string>
+    <string name="wallpaper_linux_aurora_ubuntu_21_10">Ubuntu 21.10</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="category_space">Space</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>

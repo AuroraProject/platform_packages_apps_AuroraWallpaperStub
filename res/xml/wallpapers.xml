@@ -16,6 +16,40 @@
 -->
 <wallpapers>
 
+    <category id="linux" title="@string/category_aw" featured="linux_aurora_mx_linux">
+
+        <static-wallpaper
+            id="linux_aurora_cent_os"
+            src="@drawable/linux_aurora_cent_os"
+            title="@string/wallpaper_linux_aurora_cent_os"
+            subtitle1="@string/author_aw" />
+            
+        <static-wallpaper
+            id="linux_aurora_fedora_29"
+            src="@drawable/linux_aurora_fedora_29"
+            title="@string/wallpaper_linux_aurora_fedora_29"
+            subtitle1="@string/author_aw" />
+            
+        <static-wallpaper
+            id="linux_aurora_mx_linux"
+            src="@drawable/linux_aurora_mx_linux"
+            title="@string/wallpaper_linux_aurora_mx_linux"
+            subtitle1="@string/author_aw" />
+            
+        <static-wallpaper
+            id="linux_aurora_ubuntu_18_04"
+            src="@drawable/linux_aurora_ubuntu_18_04"
+            title="@string/wallpaper_linux_aurora_ubuntu_18_04"
+            subtitle1="@string/author_aw" />
+            
+        <static-wallpaper
+            id="linux_aurora_ubuntu_21_10"
+            src="@drawable/linux_aurora_ubuntu_21_10"
+            title="@string/wallpaper_linux_aurora_ubuntu_21_10"
+            subtitle1="@string/author_aw" />
+
+    </category>
+    
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper
